@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class AL {
+public class AL { // Array List
     public static void main(String[] args){
         ArrayList al = new ArrayList();
         al.add(100);
