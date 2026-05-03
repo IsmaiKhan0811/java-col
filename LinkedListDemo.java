@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class LL1 { // Linked List
+public class LinkedListDemo{ // Linked List
     public static void main(String[] args){
         LinkedList ll = new LinkedList();
         ll.add(100);
